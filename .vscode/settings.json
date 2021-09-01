@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1bfa9837-304a-40d5-9a43-2d9c59a18b41/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/abiria-denesor-cowarong",
+    "appService.deploySubpath": "."
+}

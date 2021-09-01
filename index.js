@@ -14,6 +14,8 @@ bot.on('ready', () => {
 })
 
 bot.on('messageCreate', async msg => {
+    console.log(`${msg.author.tag}: ${msg.content}`)
+
     if (msg.author.id === '662201438621138954') {
         if (msg.content === 'hey?') {
             msg.reply('yeh?')
